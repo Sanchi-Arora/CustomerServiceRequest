@@ -1,6 +1,6 @@
 **Customer Service Requests Analysis Project - 1**
 
-***DESCRIPTION***
+**DESCRIPTION**
 
 Background of Problem Statement :
 
